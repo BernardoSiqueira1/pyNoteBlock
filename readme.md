@@ -4,6 +4,10 @@
 Projetinho bem simples de final de ano para não ficar parado, feito com python que já não desenvolvia algo há um bom tempo
 
 ## Ferramentas:
+- Sys
+
+- OS
+
 - Tkinter
 
 - PyInstaller
