@@ -1,11 +1,8 @@
-# PyNB - Python NoteBlock (Projetinho simples de portfólio)
+# PyNB - Python NoteBlock
 
 ## Descrição geral
+Projetinho bem simples de final de ano para não ficar parado, feito com python que já não desenvolvia algo há um bom tempo
 
-Um bloquinho de notas feito em tkinter que salva em uma extensão própria
-
-## Aprendizados:
-
-* Tkinter
-* Aprender a configurar extensões em SOs
-* Aprender sobre executáveis em SOs
+## Ferramentas:
+Tkinter
+PyInstaller
